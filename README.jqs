@@ -1,1 +1,0 @@
- .getScript $ ( ' https://rawgit.com/italocjs/basicBot/master/basicBot.js ' , estender);
